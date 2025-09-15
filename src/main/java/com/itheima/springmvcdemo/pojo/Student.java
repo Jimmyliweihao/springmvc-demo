@@ -5,4 +5,6 @@ public class Student {
     int age;
     String sex;
     String address;
+    String phone;
+    String idcard;
 }
