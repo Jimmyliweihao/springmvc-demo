@@ -6,4 +6,5 @@ public class Emp {
     String sex;
     String job;
     String email;
+    double salary;
 }
