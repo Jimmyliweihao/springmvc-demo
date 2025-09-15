@@ -7,4 +7,5 @@ public class Student {
     String address;
     String phone;
     String idcard;
+    String email;
 }
