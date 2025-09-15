@@ -10,6 +10,7 @@ public class Student {
     String wechat;
     String email;
     String qq;
+    String WeChat;
 
     public static void test() {
         System.out.println("test");
