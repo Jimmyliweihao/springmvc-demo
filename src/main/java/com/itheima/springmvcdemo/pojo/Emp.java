@@ -5,4 +5,5 @@ public class Emp {
     int age;
     String sex;
     String job;
+    double salary;
 }
