@@ -6,4 +6,6 @@ public class Student {
     String sex;
     String address;
     String wechat;
+    String email;
+    String qq;
 }
