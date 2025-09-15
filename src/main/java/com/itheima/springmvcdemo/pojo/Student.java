@@ -5,4 +5,5 @@ public class Student {
     int age;
     String sex;
     String address;
+    String wechat;
 }
