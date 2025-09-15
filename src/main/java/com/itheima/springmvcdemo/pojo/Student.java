@@ -8,4 +8,5 @@ public class Student {
     String phone;
     String idcard;
     String email;
+    String qq;
 }
